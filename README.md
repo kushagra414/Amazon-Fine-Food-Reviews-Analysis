@@ -67,11 +67,11 @@ ___
 ___
 ### 2. Amazon Food REview Analysis using K-Nearest Neighbors
 
-    - Find the right Hyperparameter using Area Under the Receiver Operating Curve(ROC).
-    - Plot F1 Scores Vs Hyperparameter.
-    - PLot Confusion Matrices.
-    - Plot Pretty Table to compare all the different Implementations.
-    - Also find the Accuracy of Algorithms.
+> - Find the right Hyperparameter using Area Under the Receiver Operating Curve(ROC).
+> - Plot F1 Scores Vs Hyperparameter.
+> - PLot Confusion Matrices.
+> - Plot Pretty Table to compare all the different Implementations.
+> - Also find the Accuracy of Algorithms.
 - Brute force KNN on BOW Vector.
 - Brute force KNN on tf-IDF.
 - Brute force KNN on Avg W2V.
@@ -83,14 +83,14 @@ ___
 Analysis using KNN on different patterned Data.
 ___
 ### 3. Amazon Food Reviews Analysis using Logistic Regression
-    - Find the right Hyperparameter using Area Under the Receiver Operating Curve(ROC).
-    - Plot F1 Scores Vs Hyperparameter.
-    - PLot Confusion Matrices.
-    - Predict Top 10 Features of the Positive and Negative Class(Feature Importance).
-    - Performing perturbation test (multicollinearity check).
-    - Plot Pretty Table to compare all the different Implementations.
-    - Also find the Accuracy of Algorithms.
-    - Write Summary for Implementation.
+> - Find the right Hyperparameter using Area Under the Receiver Operating Curve(ROC).
+> - Plot F1 Scores Vs Hyperparameter.
+> - PLot Confusion Matrices.
+> - Predict Top 10 Features of the Positive and Negative Class(Feature Importance).
+> - Performing perturbation test (multicollinearity check).
+> - Plot Pretty Table to compare all the different Implementations.
+> - Also find the Accuracy of Algorithms.
+> - Write Summary for Implementation.
 - Logistic Regression with "l1" regularization on BOW.
 - Logistic Regression with "l2" regularization on BOW.
 - Logistic Regression with "l1" regularization on tf-IDF.
@@ -101,26 +101,26 @@ ___
 - Logistic Regression with "l2" regularization on tf-IDF W2V.
 ___
 ### 4. Amazon Food Reviews Analysis using Naive Bayes
-    - Find the right Hyperparameter using Area Under the Receiver Operating Curve(ROC).
-    - Plot F1 Scores Vs Hyperparameter.
-    - PLot Confusion Matrices.
-    - Predict Top 10 Features of the Positive and Negative Class(Feature Importance).
-    - Perform Feature Engineering to Improve Model Performance.
-    - Plot Pretty Table to compare all the different Implementations.
-    - Also find the Accuracy of Algorithms.
+> - Find the right Hyperparameter using Area Under the Receiver Operating Curve(ROC).
+> - Plot F1 Scores Vs Hyperparameter.
+> - PLot Confusion Matrices.
+> - Predict Top 10 Features of the Positive and Negative Class(Feature Importance).
+> - Perform Feature Engineering to Improve Model Performance.
+> - Plot Pretty Table to compare all the different Implementations.
+> - Also find the Accuracy of Algorithms.
 - Naive Bayes on BOW.
 - Naive Bayes on tf-IDF.
 - Naive Bayes on BOW after Feature Engineering.
 - Naive Bayes on tf-IDF after Feature Engineering.
 ___
 ### 5. Amazon Food Reviews Analysis using Support Vector Machine
-    - Find the right Hyperparameter using Area Under the Receiver Operating Curve(ROC).
-    - Plot F1 Scores Vs Hyperparameter.
-    - PLot Confusion Matrices.
-    - Predict Top 10 Features of the Positive and Negative Class(Feature Importance).
-    - Use Linear Kernel and Radial Basis Function Kernel.
-    - Plot Pretty Table to compare all the different Implementations.
-    - Also find the Accuracy of Algorithms.
+> - Find the right Hyperparameter using Area Under the Receiver Operating Curve(ROC).
+> - Plot F1 Scores Vs Hyperparameter.
+> - PLot Confusion Matrices.
+> - Predict Top 10 Features of the Positive and Negative Class(Feature Importance).
+> - Use Linear Kernel and Radial Basis Function Kernel.
+> - Plot Pretty Table to compare all the different Implementations.
+> - Also find the Accuracy of Algorithms.
 - SVM with "l1" regularization and Linear Kernel on BOW.
 - SVM with "l2" regularization and Linear Kernel on BOW. 
 - SVM with "l1" regularization and Linear Kernel on tf-IDF.
@@ -135,12 +135,12 @@ ___
 - SVM with RBF Kernel on Weighted tf-IDF W2V.
 ___
 ### 6. Amazon Food Review using Decision Tree
-    - Find the right Hyperparameter using Area Under the Receiver Operating Curve(ROC).
-    - Plot F1 Scores Vs Hyperparameter.
-    - PLot Confusion Matrices.
-    - Plot Decision Trees.
-    - Plot Pretty Table to compare all the different Implementations.
-    - Also find the Accuracy of Algorithms.
+> - Find the right Hyperparameter using Area Under the Receiver Operating Curve(ROC).
+> - Plot F1 Scores Vs Hyperparameter.
+> - PLot Confusion Matrices.
+> - Plot Decision Trees.
+> - Plot Pretty Table to compare all the different Implementations.
+> - Also find the Accuracy of Algorithms.
 - Decision Tree on BOW.
 - Decision Tree on tf-IDF.
 - Decision Tree on Avg W2V.
